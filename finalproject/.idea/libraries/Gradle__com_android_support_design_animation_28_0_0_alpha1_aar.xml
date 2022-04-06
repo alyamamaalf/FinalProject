@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design-animation:28.0.0-alpha1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/57424594e02b9ec8d15242f70fbb2ecb/transformed/design-animation-28.0.0-alpha1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/57424594e02b9ec8d15242f70fbb2ecb/transformed/design-animation-28.0.0-alpha1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/57424594e02b9ec8d15242f70fbb2ecb/transformed/design-animation-28.0.0-alpha1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.android.support/design-animation/28.0.0-alpha1/a7bc2b1c7808d68cd6660ac73e668e822d912a6b/design-animation-28.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
