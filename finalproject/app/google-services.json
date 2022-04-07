@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294237745975",
+    "firebase_url": "https://myday-e528e-default-rtdb.firebaseio.com",
+    "project_id": "myday-e528e",
+    "storage_bucket": "myday-e528e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294237745975:android:f1279525ebac69a91820b2",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294237745975-n0ttd171ckpdc5cnukcjp2ovk6sgu5hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcm12hrIQ8IPkP5aAhlhEXuvrrrWBwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294237745975-n0ttd171ckpdc5cnukcjp2ovk6sgu5hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

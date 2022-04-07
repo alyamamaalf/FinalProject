@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="161dp"
+        android:layout_height="62dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="159dp"
+        android:layout_marginTop="143dp"
+        android:text="Sing in"
+        android:textColor="#D8E2DC"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Welcom"
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="55dp"
+        android:includeFontPadding="true"
+        android:text="Welcom;"
+        android:textColor="#9D8189"
+        android:textSize="50sp"
+
+        android:textStyle="bold" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/email1"
+        android:layout_width="244dp"
+        android:layout_height="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="305dp"
+        android:layout_marginEnd="122dp"
+        android:background="@drawable/custom"
+        android:drawableStart="@drawable/ic_email"
+        android:ems="10"
+        android:hint="Email"
+        android:paddingStart="12dp"
+        android:paddingBottom="12dp"
+        android:textSize="24sp" />
+
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="243dp"
+        android:layout_height="59dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="391dp"
+        android:layout_marginEnd="123dp"
+        android:background="@drawable/custom"
+        android:drawableStart="@drawable/ic_baseline"
+        android:ems="10"
+        android:hint="Password"
+        android:paddingStart="12dp"
+        android:paddingBottom="12dp"
+        android:textSize="24sp"  />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="232dp"
+        android:layout_height="180dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="133dp"
+        android:layout_marginTop="587dp"
+        app:srcCompat="@drawable/img" />
+
+    <Button
+        android:id="@+id/getStarted"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="183dp"
+        android:layout_marginBottom="383dp"
+        android:backgroundTint="#F4ACB7"
+        android:text="get started" />
+
+    <TextView
+        android:id="@+id/Register"
+        android:layout_width="193dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="154dp"
+        android:layout_marginBottom="89dp"
+        android:text=" New here?,Register"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>
